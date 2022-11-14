@@ -1,0 +1,51 @@
+.jadwal-content {
+    position: absolute;
+    background-color: var(--clr-mainY);
+    font-family: var(--font-serif);
+    color: var(--clr-lightB);
+    margin-top: -2%;
+    width: 30%;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 8px 20px 3px rgba(0, 0, 0, 0.2);
+    font-weight: 400;
+    justify-content: center;
+}
+
+.jadwal-content h1 {
+    margin-top: 5%;
+}
+
+.jadwal-container {
+    margin-top: 5%;
+    background-color: var(--clr-mainYtp);
+    color: var(--clr-dark);
+}
+
+.wrapper1 {
+    margin-top: 5%;
+}
+
+.jadwals {
+    margin-top: 3%;
+}
+
+.jadwal-title {
+    margin: 0% 0%;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.borderJadwal {
+    margin-top: 10%;
+    display: inline-table;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 10px;
+    box-shadow: 0px 8px 20px 3px rgba(0, 0, 0, 0.2);
+}

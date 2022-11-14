@@ -1,0 +1,26 @@
+:root {
+  --clr-dark: #333333;
+  --clr-semidark: #595959;
+  --clr-lightB: #ffffff;
+  --clr-light: #f3f3f3;
+  --clr-semilight: #b3b3b3;
+  --clr-mainY: #3483eb;
+  --clr-mainYtp: #3459eb;
+  --clr-main: #78968D;
+  --clr-sec: #5D80D1;
+
+  --font-serif: 'Lora', serif;
+  --font-sans-serif: 'Poppins', sans-serif;
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: var(--font-sans-serif);
+  font-weight: 400;
+  font-size: 1.5rem;
+}
