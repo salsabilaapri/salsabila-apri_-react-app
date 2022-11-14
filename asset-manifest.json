@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/salsabila-apri_-react-app/static/css/main.91be2db4.css",
+    "main.js": "/salsabila-apri_-react-app/static/js/main.962a8d5a.js",
+    "static/media/view.jpg": "/salsabila-apri_-react-app/static/media/view.fcab814e9c9e3eaa7a8e.jpg",
+    "static/media/pic2.JPG": "/salsabila-apri_-react-app/static/media/pic2.b77fab2cbc91f66ccc4e.JPG",
+    "static/media/bees.jpg": "/salsabila-apri_-react-app/static/media/bees.44d3a8c7da2b63c88f98.jpg",
+    "static/media/gemas.jpg": "/salsabila-apri_-react-app/static/media/gemas.af10ea84eef2fe32c581.jpg",
+    "static/media/donor.jpg": "/salsabila-apri_-react-app/static/media/donor.21dabb1732cd561b8ed1.jpg",
+    "static/media/fls2n.jpg": "/salsabila-apri_-react-app/static/media/fls2n.7927faf729bf3a56612f.jpg",
+    "static/media/karisma.jpg": "/salsabila-apri_-react-app/static/media/karisma.8a57bfff2b6ca6db96a3.jpg",
+    "static/media/ytb.png": "/salsabila-apri_-react-app/static/media/ytb.7cedfa3a8bc7d3993313.png",
+    "index.html": "/salsabila-apri_-react-app/index.html",
+    "main.91be2db4.css.map": "/salsabila-apri_-react-app/static/css/main.91be2db4.css.map",
+    "main.962a8d5a.js.map": "/salsabila-apri_-react-app/static/js/main.962a8d5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91be2db4.css",
+    "static/js/main.962a8d5a.js"
+  ]
+}
